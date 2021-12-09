@@ -1,0 +1,2 @@
+module kredyt_01 {
+}
